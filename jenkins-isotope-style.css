@@ -1,11 +1,11 @@
 body {
-  background: #63818a;
-  background: -moz-linear-gradient(top, #63818a 0%, #0B2F3A 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #63818a), color-stop(100%, #0B2F3A));
-  background: -webkit-linear-gradient(top, #63818a 0%, #0B2F3A 100%);
-  background: -o-linear-gradient(top, #63818a 0%, #0B2F3A 100%);
-  background: -ms-linear-gradient(top, #63818a 0%, #0B2F3A 100%);
-  background: linear-gradient(top, #63818a 0%, #0B2F3A 100%); }
+  background: #0B2F3A;
+  background: -moz-linear-gradient(top,#0B2F3A 0%, #0B2F3A 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0B2F3A), color-stop(100%, #0B2F3A));
+  background: -webkit-linear-gradient(top, #0B2F3A 0%, #0B2F3A 100%);
+  background: -o-linear-gradient(top, #0B2F3A 0%, #0B2F3A 100%);
+  background: -ms-linear-gradient(top, #0B2F3A 0%, #0B2F3A 100%);
+  background: linear-gradient(top, #0B2F3A 0%, #0B2F3A 100%); }
 
 h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
@@ -22,8 +22,8 @@ h1, h2, h3, h4, h5, h6 {
     background: url("https://ua2.kixeye.com/assets/images/ua-jobs.gif") 0 0 no-repeat;
     background-size: auto 100%;
     display: block;
-    width: 130px;
-    height: 40px;
+    width: 170px;
+    height: 65px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
       display: none; }
